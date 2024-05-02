@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 public class OneServer
 {
-	String[] objforChatHistory;
+	
   public static void main(String[] args) throws Exception
   {
 	  
